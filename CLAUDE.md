@@ -3,7 +3,8 @@
 Robotics training project. Stack, simulator, and layout are still being decided — update this file as they are.
 
 ## Project goals
-- TODO: describe what is being trained (policy, task, robot/simulator).
+- Create a simulation environment for robotics training
+- Train robots to do one task, such as pick up a box
 
 ## Layout
 - `.claude/agents/` — subagent definitions (researcher, implementer, reviewer)
